@@ -49,5 +49,3 @@ Test site
 ```
 https://testnet.binance.vision
 ```
-
-
